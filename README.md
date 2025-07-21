@@ -18,18 +18,16 @@ A simple weather forecast application built using **HTML**, **CSS**, and **JavaS
 ## 🖼️ Preview
 
 ![App Screenshot](screenshot.png)  
-*(Include a screenshot of your app once deployed)*
+<img width="741" height="1152" alt="screenshot png" src="https://github.com/user-attachments/assets/89d7af8c-8a4e-4dea-b31e-e2634c9f62b5" />
+
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **Vanilla JavaScript (ES6+)**
+- **HTML**
+- **CSS**
+- **JavaScript**
 - **OpenWeatherMap API**
 
----
-
-## 📁 Project Structure
 
